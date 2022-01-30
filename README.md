@@ -2,6 +2,10 @@ I created a small data base including a student id and his first name.
 Then I connected to the database using JDBC.
 The code is available in the master branch.
 
+Here is the DataBase:
+![image](https://user-images.githubusercontent.com/90603507/151721936-683e7287-6d9f-4ffc-bc57-be54103382be.png)
+
+
 Here are the results:
 
 Asking for the first name:
