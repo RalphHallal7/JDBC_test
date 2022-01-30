@@ -1,5 +1,5 @@
 I created a small data base including a student id and his first name
-the I connected to the database using JDBC
+then I connected to the database using JDBC
 here are the results:
 
 asking for the first name:
